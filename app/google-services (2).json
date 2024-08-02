@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643336258786",
+    "project_id": "itmobileapp-71c56",
+    "storage_bucket": "itmobileapp-71c56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643336258786:android:0a0ad10898a20260ae0abb",
+        "android_client_info": {
+          "package_name": "com.example.itmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrUE0cTNO8i0nLyNHAzY5hp_5QmKeGymo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

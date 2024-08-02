@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="(link unavailable)"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/requirements_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/application_page_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColorLink="@color/colorPrimary" />
+
+</LinearLayout>
